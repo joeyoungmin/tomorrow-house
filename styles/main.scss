@@ -1,10 +1,12 @@
 @import "./constants/colors";
 @import "./constants/typography.scss";
+@import "./constants/breakpoint";
 
 @import "./base/fonts";
 @import "./base/normalize.scss";
 @import "./base/reset.scss";
 
 @import "./mixins/text-style";
+@import "./mixins/responsive";
 
 @import "./layouts/girds.scss";
